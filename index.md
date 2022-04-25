@@ -6,7 +6,7 @@ Hello visitors, my name is Zhao Pei Liang. This is a blog website that is create
 
 April 19, 2022
 
-[Lab 2 Report: Troubleshooting Code Collaboratively](https://strawberryakai.github.io/Labreport2/Lab2report)
+[Lab 2 Report: Troubleshooting Code Collaboratively](https://strawberryakai.github.io/Lab2report/Lab2report)
 
 Apr 10, 2022
 
