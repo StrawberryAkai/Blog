@@ -1,14 +1,12 @@
 ## <span style = font-size:30px> Welcome to CSE15L Blog </span>
 
-You can use the [editor on GitHub](https://github.com/StrawberryAkai/Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<span style = font-size:20px> Hello visitors, my name is Zhao Pei Liang. This is a blog website that is created for showing my lab reports throughout my course of CSE 15L. Hope those topic will help you and enjoy reading it!  </span>
 
 ### <span style = font-size:30px>Posts </span>
 
 April 19, 2022
 
-<span style = font-size:20px> [Lab 2 Report]</span>
+<span style = font-size:20px> [Lab 2 Report]()</span>
 
 Apr 10, 2022
 
@@ -23,5 +21,6 @@ Apr 10, 2022
 ### Credit
 
 Website theme created by github
+
 
 
