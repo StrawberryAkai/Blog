@@ -4,6 +4,10 @@ Hello visitors, my name is Zhao Pei Liang. This is a blog website that is create
 
 ### Posts
 
+June 5, 2022
+
+[Lab 5 Report: Comparing Tests](https://strawberryakai.github.io/Lab-report-5/report) THANK YOU FOR THIS YEAR!!!
+
 May 23, 2022
 
 [Lab 4 Report: Markdown Parser Snippets Testing](https://strawberryakai.github.io/Lab-Report-4/report)
